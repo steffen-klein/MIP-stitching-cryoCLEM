@@ -2,8 +2,12 @@
 
 ---------------------------------------------------------------------
 
+Script by Steffen Klein
+Copyright Chlanda Lab Heidelberg
+
+---------------------------------------------------------------------
+
 FIJI Macro for image stitching of files acquired with Leica cryoCLEM microscope
-Copyright Chlanda Lab Heidelberg, 2018, Script by Steffen Klein
 
 ---------------------------------------------------------------------
 
